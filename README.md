@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @snh9858
-- 👀 I’m interested in: making goofy things :)
-- 🌱 I’m currently learning: cs theory & intro to swen
+- 👀 I’m interested in: weee aha weee
+- 🌱 I’m currently learning: 3rd year cs @ rit
 - 💞️ I’m looking to collaborate on: uhh nothing smile thank youu
-- 📫 How to reach me: leave a loaf of bread outside your door at 1am and i will appear for not only a snack but
-     a deep discussion on the lore of the Cars (2006) cinematic universe
+- 📫 How to reach me: give me a lalala lala laaaa and then i'll recite a winter night's lazzo at you :)
 
 <!---
 snh9858/snh9858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
