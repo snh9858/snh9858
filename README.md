@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @snh9858
-- 👀 I’m interested in: learning new cs and gdd things !
-- 🌱 I’m currently learning: 4th year cs @ rit
+- 👀 I’m interested in: computer graphics and computer vision
+- 🌱 I’m currently learning: 5th year cs @ rit + co-op at retiina
 - 💞️ I’m looking to collaborate on: uhh nothing smile thank youu
-- 📫 How to reach me: give me a lalala lala laaaa and then i'll recite a winter night's lazzo at you :) (or send me an email)
+- 📫 How to reach me: good question
 
 <!---
 snh9858/snh9858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
